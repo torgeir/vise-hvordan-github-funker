@@ -1,4 +1,4 @@
 int i = 0;
 void loop() {
-	i += 1;
+  i++;
 }
